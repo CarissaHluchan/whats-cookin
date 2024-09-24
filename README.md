@@ -5,13 +5,18 @@
 
 This app is a recipe tracking / meal planning application that allows users to view recipes they want to cook & plan shopping trips around them. Users can view a list of recipes, filter them by name or tag, & choose recipes to cook.
 
-### Installation Instructions:
+### Technology:
+1. Vanilla JavaScript
+2. HTML
+3. CSS
 
+### Installation Instructions:
+**1. Click the Title to open the app.**
+
+**2. _(optional) Fork this project to your own Github account._**
 > [!WARNING]
 > **[Node.js](https://nodejs.org/en) & [npm](https://www.npmjs.com/) are required to run this app.**<br>
 > _Please ensure you have both installed on your machine before proceeding._
-
-- _(optional) Fork this project to your own Github account._
 - Clone the repository to your local machine.
 - `cd` into the project folder.
 - Use the `npm install` command to install the project dependencies.
