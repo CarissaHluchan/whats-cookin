@@ -9,6 +9,7 @@ This app is a recipe tracking / meal planning application that allows users to v
 1. Vanilla JavaScript
 2. HTML
 3. CSS
+4. Mocha, Chai
 
 ### Installation Instructions:
 **1. Click the Title to open the app.**
